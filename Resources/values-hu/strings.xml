@@ -74,6 +74,10 @@
 	<string name="language">Nyelv</string>
 	<string name="theme">Téma</string>
 
+	<string name="choose_file_format">Válassz fájl formátumot</string>
+	<string name="enter_master_password">Add meg a master jelszót</string>
+	<string name="export_vault">Széf exportálása</string>
+
 	<string name="password_require">Jelszó megadása kötelező (min. 8 karakter, 1 nagybetű, 1 szám, 1 speciális karakter)</string>
 	
 	<string name="img_description">Jelszó Kezelő</string>

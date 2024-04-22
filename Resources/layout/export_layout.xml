@@ -19,7 +19,7 @@
     app:autoSizeMinTextSize="12sp"
     app:autoSizeMaxTextSize="100sp"
     app:autoSizeStepGranularity="2sp"
-    android:text="Choose file format"/>
+    android:text="@string/choose_file_format"/>
 <androidx.appcompat.widget.AppCompatSpinner
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
@@ -34,7 +34,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:id="@+id/master_text"
-    android:text="Enter master password"
+    android:text="@string/enter_master_password"
     android:textSize="25sp"
     app:autoSizeTextType="uniform"
     app:autoSizeMinTextSize="12sp"
@@ -65,7 +65,7 @@
 <Button
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:text="Export vault"
+    android:text="@string/export_vault"
     android:id="@+id/export_button"
     app:layout_constraintTop_toBottomOf="@id/master_input"/>
 </androidx.constraintlayout.widget.ConstraintLayout>

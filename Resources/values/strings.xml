@@ -75,6 +75,10 @@
 	<string name="language">Language</string>
 	<string name="theme">Theme</string>
 
+    <string name="choose_file_format">Choose file format</string>
+	<string name="enter_master_password">Enter the master password</string>
+	<string name="export_vault">Export vault</string>
+	
 	<string name="password_require">Password must be at least 8 characters long and include at least one uppercase letter, one number, and one special character.</string>
 
 
