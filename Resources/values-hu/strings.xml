@@ -1,0 +1,142 @@
+<resources>
+	<string name="app_name">jelszó_kezelő</string>
+	<string name="action_settings">Beállítások</string>
+
+	<string name="navigation_drawer_open">Navigációs menü megnyitása</string>
+	<string name="navigation_drawer_close">Navigációs menü bezárása</string>
+
+	<string name="title_vault">Én széfem</string>
+	<string name="title_generator">Generátor</string>
+	<string name="title_logout">Kijelentkezés</string>
+	<string name="title_send">Küldés</string>
+	<string name="title_add_item">Új elem hozzáadása</string>
+
+	<string name="title_list_data">Elemek listázása</string>
+	<string name="title_view_item">Elem megtekintése</string>
+	<string name="title_send_data">Adat küldése</string>
+	<string name="title_modify">Elem módosítása</string>
+	<string name="app_language">Alkalmazás nyelve:</string>
+	<string name="give_data">Adja meg azokat az adatokat, amelyeket meg szeretne osztani.</string>
+	<string name="share">Megosztás</string>
+	<string name="greeting">Üdvözöllek, </string>
+
+	<string name="password">Jelszó</string>
+	<string name="options">Opciók</string>
+	<string name="length">Hossz</string>
+	<string name="uppercase">Nagybetűk</string>
+	<string name="lowercase">Kisbetűk</string>
+	<string name="special_characters">Speciális karakterek</string>
+	<string name="numbers">Számok</string>
+	<string name="default_counter">5</string>
+	<string name="welcome_back">Üdvözlünk újra!</string>
+	<string name="enter_email_password">Add meg az email címedet és jelszavadat</string>
+	<string name="email">Email</string>
+	<string name="email_hint">email@cim.com</string>
+	<string name="last_modified">Utoljára módosítva</string>
+	<string name="password_hint">jelszo</string>
+	<string name="login">Bejelentkezés</string>
+	<string name="register">Regisztráció</string>
+	<string name="google_login">Google bejelentkezés</string>
+	<string name="description">leírás</string>
+	<string name="set_master_password">Mesterjelszó beállítása</string>
+	<string name="submit">Beküldés</string>
+	<string name="use_biometrics_unlock">Biometrikus feloldás használata</string>
+	<string name="type">Típus</string>
+	<string name="name">Név</string>
+	<string name="cardholder_name">Kártyatulajdonos neve</string>
+	<string name="card_number">Kártyaszám</string>
+	<string name="company">Társaság</string>
+	<string name="year_of_expire">Lejárati év</string>
+	<string name="month_of_expire">Lejárati hónap</string>
+	<string name="note">Megjegyzés</string>
+	<string name="add_card">Kártya hozzáadása</string>
+	<string name="first_name">Keresztnév</string>
+	<string name="last_name">Vezetéknév</string>
+	<string name="expire_year">Lejárati év</string>
+	<string name="expire_month">Lejárati hónap</string>
+	<string name="address">Cím</string>
+	<string name="extra_info_1">További információ 1</string>
+	<string name="extra_info_2">További információ 2</string>
+	<string name="extra_info_3">További információ 3</string>
+	<string name="add_identity">Személyazonosság hozzáadása</string>
+	<string name="username_email">Felhasználónév/Email</string>
+	<string name="url">URL</string>
+	<string name="add_login">Bejelentkezés hozzáadása</string>
+	<string name="add_note">Megjegyzés hozzáadása</string>
+	<string name="username_hint">felhasznalonev</string>
+	<string name="content_description">leírás</string>
+	<string name="identify">Azonosítás</string>
+	<string name="card">Kártya</string>
+	<string name="notes">Megjegyzések</string>
+	<string name="previously_added">Korábban hozzáadott</string>
+	<string name="username">Felhasználónév</string>
+	<string name="back">Vissza</string>
+	<string name="language">Nyelv</string>
+	<string name="theme">Téma</string>
+
+	<string name="password_require">Jelszó megadása kötelező (min. 8 karakter, 1 nagybetű, 1 szám, 1 speciális karakter)</string>
+	
+	<string name="img_description">Jelszó Kezelő</string>
+
+	<string-array name="languages">
+		<item>Angol</item>
+		<item>Magyar</item>
+	</string-array>
+
+	<string-array name="themes">
+		<item>Sötét</item>
+		<item>Világos</item>
+	</string-array>
+
+	<string-array name="types">
+		<item>Bejelentkezés</item>
+		<item>Kártya</item>
+		<item>Azonosító</item>
+		<item>Megjegyzés</item>
+	</string-array>
+
+	<string-array name="months">
+		<item>01 - Január</item>
+		<item>02 - Február</item>
+		<item>03 - Március</item>
+		<item>04 - Április</item>
+		<item>05 - Május</item>
+		<item>06 - Június</item>
+		<item>07 - Július</item>
+		<item>08 - Augusztus</item>
+		<item>09 - Szeptember</item>
+		<item>10 - Október</item>
+		<item>11 - November</item>
+		<item>12 - December</item>
+	</string-array>
+
+	<string-array name="companies">
+		<item>Visa</item>
+		<item>Mastercard</item>
+		<item>Maestro</item>
+		<item>American Express</item>
+		<item>Egyéb</item>
+	</string-array>
+
+	<string name="password_too_short">A jelszó üres vagy kevesebb mint 6 karakter hosszú.</string>
+	<string name="incorrect_password">A megadott jelszó helytelen.</string>
+	<string name="registered_incorrect_password">Már regisztrált, és a megadott jelszó helytelen.</string>
+	<string name="biometric_login">Biometrikus Bejelentkezés</string>
+	<string name="biometric_title">Jelentkezzen be biometrikus hitelesítő adataival</string>
+	<string name="biometric_cancel">Mégse</string>
+	<string name="auth_succeeded">Azonosítás sikeres.</string>
+	<string name="auth_failed">Azonosítás sikertelen.</string>
+	<string name="auth_error">Hiba:</string>
+	<string name="network_error">Hiba a szerverkapcsolatban:</string>
+	<string name="generic_error">Hiba:</string>
+	<string name="type_master_password">Be kell állítania egy mesterjelszót a biometrikus feloldás engedélyezéséhez.</string>
+
+	<string name="name_cant_empty">A név mező nem lehet üres.</string>
+	<string name="no_data">Nincs elérhető adat. Adjon hozzá egy elemet a + gomb használatával.</string>
+	<string name="deleted_item">Az elem sikeresen törlődött.</string>
+	<string name="no_deleted_item">Az elemet nem sikerült törölni.</string>
+	<string name="key_invalid">A mesterkulcs érvénytelen.</string>
+	<string name="success_export">A fájl sikeresen exportálva lett a Letöltések mappába.</string>
+	<string name="nothing_selected">Nincs kiválasztott elem.</string>
+	<string name="password_copy">A jelszó vágólapra másolva.</string>
+</resources>

@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">password_manager</string>
+    <string name="action_settings">Settings</string>
+
+
+	<string name="navigation_drawer_open">Navigációs menü kinyitása</string>
+	<string name="navigation_drawer_close">Navigációs menü bezárása</string>
+
+	<string name="title_vault">My vault</string>
+	<string name="title_generator">Generator</string>
+	<string name="title_logout">Logout</string>
+	<string name="title_send">Send</string>
+	<string name="title_add_item">Add new item</string>
+
+	<string name="title_list_data">List item</string>
+	<string name="title_view_item">View item</string>
+	<string name="title_send_data">Send data</string>
+	<string name="title_modify">Modify item</string>
+	<string name="app_language">Application language:</string>
+	<string name="give_data">Add the data what you want to share.</string>
+	<string name="share">Share</string>
+	<string name="greeting">Welcome, </string>
+
+	<string name="password">Password</string>
+	<string name="options">Options</string>
+	<string name="length">Length</string>
+	<string name="uppercase">Uppercase</string>
+	<string name="lowercase">Lowercase</string>
+	<string name="special_characters">Special characters</string>
+	<string name="numbers">Numbers</string>
+	<string name="default_counter">5</string>
+	<string name="welcome_back">Welcome back!</string>
+	<string name="enter_email_password">Enter your email and password</string>
+	<string name="email">Email</string>
+	<string name="email_hint">email@email.com</string>
+	<string name="password_hint">passworrrd</string>
+	<string name="login">Login</string>
+	<string name="register">Register</string>
+	<string name="last_modified">Last Modified</string>
+	<string name="google_login">Google login</string>
+	<string name="description">description</string>
+	<string name="set_master_password">Set master password</string>
+	<string name="submit">Submit</string>
+	<string name="use_biometrics_unlock">Use biometrics unlock</string>
+	<string name="type">Type</string>
+	<string name="name">Name</string>
+	<string name="cardholder_name">Cardholder name</string>
+	<string name="card_number">Card Number</string>
+	<string name="company">Company</string>
+	<string name="year_of_expire">Year of expire</string>
+	<string name="month_of_expire">Month of expire</string>
+	<string name="note">Note</string>
+	<string name="add_card">Add card</string>
+	<string name="first_name">First name</string>
+	<string name="last_name">Last name</string>
+	<string name="expire_year">Year of expire</string>
+	<string name="expire_month">Month of expire</string>
+	<string name="address">Address</string>
+	<string name="extra_info_1">Extra info 1</string>
+	<string name="extra_info_2">Extra info 2</string>
+	<string name="extra_info_3">Extra info 3</string>
+	<string name="add_identity">Add identity</string>
+	<string name="username_email">Username/Email</string>
+	<string name="url">URL</string>
+	<string name="add_login">Add login</string>
+	<string name="add_note">Add note</string>
+	<string name="username_hint">username</string>
+	<string name="content_description">description</string>
+	<string name="identify">Identify</string>
+	<string name="card">Card</string>
+	<string name="notes">Notes</string>
+	<string name="previously_added">Previously added</string>
+	<string name="username">Username</string>
+	<string name="back">Back</string>
+	<string name="language">Language</string>
+	<string name="theme">Theme</string>
+
+	<string name="password_require">Password must be at least 8 characters long and include at least one uppercase letter, one number, and one special character.</string>
+
+
+	<string name="title_export">Export</string>
+
+
+	<string name="img_description">Password Manager</string>
+
+	<string-array name="file_types">
+		<item>.JSON</item>
+		<item>.TXT</item>
+	</string-array>
+	
+	
+	<string-array name="languages">
+		<item>English</item>
+		<item>Hungarian</item>
+	</string-array>
+
+	<string-array name="themes">
+		<item>Dark</item>
+		<item>Light</item>
+	</string-array>
+	
+	<string-array name="types">
+		<item>Login</item>
+		<item>Card</item>
+		<item>Identify</item>
+		<item>Note</item>
+	</string-array>
+
+	<string-array name="months">
+		<item>01 - January</item>
+		<item>02 - February</item>
+		<item>03 - March</item>
+		<item>04 - April</item>
+		<item>05 - May</item>
+		<item>06 - June</item>
+		<item>07 - July</item>
+		<item>08 - August</item>
+		<item>09 - September</item>
+		<item>10 - October</item>
+		<item>11 - November</item>
+		<item>12 - December</item>
+	</string-array>
+
+	<string-array name="companies">
+		<item>Visa</item>
+		<item>Mastercard</item>
+		<item>Maestro</item>
+		<item>American Express</item>
+		<item>Other</item>
+	</string-array>
+
+
+	<string name="password_too_short">The password is either empty or less than 6 characters long.</string>
+	<string name="incorrect_password">The password entered is incorrect.</string>
+	<string name="registered_incorrect_password">You have already registered, and the password provided is incorrect.</string>
+	<string name="biometric_login">Biometric Login</string>
+	<string name="biometric_title">Log in using your biometric credentials</string>
+	<string name="biometric_cancel">Cancel</string>
+	<string name="auth_succeeded">Authentication succeeded.</string>
+	<string name="auth_failed">Authentication failed.</string>
+	<string name="auth_error">Error:</string>
+	<string name="network_error">Error in server connection:</string>
+	<string name="generic_error">Error:</string>
+	<string name="type_master_password">You must set a master password to enable biometric unlocking.</string>
+
+	<string name="name_cant_empty">The name field cannot be empty.</string>
+	<string name="no_data">No data available. Please add an item using the + button.</string>
+	<string name="deleted_item">The item has been successfully deleted.</string>
+	<string name="no_deleted_item">The item could not be deleted.</string>
+	<string name="key_invalid">The master key is invalid.</string>
+	<string name="success_export">The file has been successfully exported to the Downloads folder.</string>
+	<string name="nothing_selected">No item has been selected.</string>
+	<string name="password_copy">The password has been copied to the clipboard.</string>
+	
+</resources>

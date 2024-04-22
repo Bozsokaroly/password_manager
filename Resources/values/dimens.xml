@@ -1,0 +1,28 @@
+<resources>
+	<!-- Default screen margins, per the Android Design guidelines. -->
+	<dimen name="activity_horizontal_margin">16dp</dimen>
+	<dimen name="activity_vertical_margin">16dp</dimen>
+	<dimen name="nav_header_vertical_spacing">8dp</dimen>
+	<dimen name="nav_header_height">176dp</dimen>
+	<dimen name="fab_margin">16dp</dimen>
+
+
+	<!--ADD NEW ITEM LAYOUT DIMENS-->
+	<dimen name="layout_paddingTop">50dp</dimen>
+	<dimen name="layout_padding">10dp</dimen>
+	<dimen name="title_textSize">25dp</dimen>
+	<dimen name="text_padding">20dp</dimen>
+	<dimen name="text_textSize">20dp</dimen>
+	<dimen name="button_textSize">18dp</dimen>
+	<dimen name="small_margin">5dp</dimen>
+	<!-- NEEDCHECK ADAPTER -->
+	<dimen name="textview_margin">30dp</dimen>
+	<dimen name="textview_textSize">15dp</dimen>
+	<!-- LOGIN LAYOUT DIMENS-->
+	<dimen name="marginTop">10dp</dimen>
+	<dimen name="button_marginTop">20dp</dimen>
+	<dimen name="under_picture_marginTop">50dp</dimen>
+
+	<!--MONTHLY ERROR DIALOG-->
+	<dimen name="padding_16">16dp</dimen>
+</resources>
